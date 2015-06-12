@@ -1,6 +1,0 @@
-:smile: 
-
-# foo
-
-
-:esa: 
