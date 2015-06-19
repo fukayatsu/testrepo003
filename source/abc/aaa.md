@@ -1,7 +1,7 @@
 ---
 title: "aaa"
-date: 2015-06-19 18:46:58 +0900
-tags: 
+date: 2015-06-19 18:48:29 +0900
+tags: tori, remote
 category: Public/abc
 published: true
 ---
